@@ -1,0 +1,17 @@
+2024-09-02 17:46:18,409 INFO This is my info log
+2024-09-02 17:46:18,409 WARNING This is my warning log
+2024-09-02 17:46:18,409 DEBUG This is my debug log
+2024-09-02 17:46:18,409 ERROR This is my error log
+2024-09-02 17:55:25,729 INFO Entered into div function
+2024-09-02 17:55:25,729 INFO Sucessfully divided a/b
+2024-09-02 17:56:31,669 INFO Entered into div function
+2024-09-02 17:56:31,669 ERROR Error happened
+2024-09-02 17:56:31,669 ERROR Exception occureddivision by zero
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Temp\ipykernel_6760\262622011.py", line 4, in div
+    division = a/b
+               ~^~
+ZeroDivisionError: division by zero
+2024-09-02 18:00:05,393 ERROR No such comm target registered: jupyter.widget.control
+2024-09-02 18:00:05,403 WARNING No such comm: d01d03a0-0a27-4c51-bff0-21367872345e
+2024-09-02 18:00:05,403 DEBUG Current comms: []
